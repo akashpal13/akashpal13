@@ -1,29 +1,39 @@
-<h1 align="center">Hi 👋, I'm Akash Pal</h1>
-<h3 align="center">A passionate Java developer from India</h3>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Akash Pal
+=================================================================================================================================
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akashpal13&label=Profile%20views&color=0e75b6&style=flat" alt="akashpal13" /> </p>
+Java Developer
+--------------
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akashpal13" alt="akashpal13" /></a> </p>
+"Meet a fresher Java virtuoso who crafts elegant and efficient solutions using the language's versatile palette. With a passion for clean code and an unwavering commitment to turning complex challenges into streamlined applications, this Java developer is a code composer who harmonizes logic and creativity to build software that stands the test of time."
 
-- 🔭 I’m currently working on **Java Language**
+* 🌍  I'm based in Pune, India
+* ✉️  You can contact me at [akashpal91522@gmail.com](mailto:akashpal91522@gmail.com)
+* 🧠  I'm learning Java
 
-- 🌱 I’m currently learning **Java, SQL**
+### Skills
 
-- 📫 How to reach me **akashpal91522@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1T2pG-P0XFbwpvi2ldQSquqUt9SzCco7q/view?usp=sharing](https://drive.google.com/file/d/1T2pG-P0XFbwpvi2ldQSquqUt9SzCco7q/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/akash-pal-67892a218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akash-pal-67892a218" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/akashpal91522" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/akashpal91522" height="30" width="40" /></a>
+ICON ICON ICON ICON
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akashpal13&show_icons=true&locale=en&layout=compact" alt="akashpal13" /></p>
+### Socials
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akashpal13&show_icons=true&locale=en" alt="akashpal13" /></p>
+<p align="left"> <a href="https://www.github.com/akashpal13" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/akash-pal-67892a218/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akashpal13&" alt="akashpal13" /></p>
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/akashpal13"><img src="https://github-readme-stats.vercel.app/api?username=akashpal13&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="akashpal13's GitHub stats" /></a>
+
+<a href="http://www.github.com/akashpal13"><img src="https://github-readme-streak-stats.herokuapp.com/?user=akashpal13&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/akashpal13"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=akashpal13&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/akashpal13" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashpal13&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
