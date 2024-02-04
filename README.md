@@ -6,7 +6,7 @@ Java Developer
 
 "Meet a fresher Java virtuoso who crafts elegant and efficient solutions using the language's versatile palette. With a passion for clean code and an unwavering commitment to turning complex challenges into streamlined applications, this Java developer is a code composer who harmonizes logic and creativity to build software that stands the test of time."
 
-* 🌍  I'm based in Pune, India
+* 🌍  I'm based in Mumbai,Maharashtra, India
 * ✉️  You can contact me at [akashpal91522@gmail.com](mailto:akashpal91522@gmail.com)
 * 🧠  I'm learning Java
 
