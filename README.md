@@ -14,7 +14,6 @@ Java Developer
 
 
 <p align="left">
-ICON ICON ICON ICON
 </p>
 
 
