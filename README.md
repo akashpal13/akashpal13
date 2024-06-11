@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Akash Pal]
+# Hi there! 👋 I'm Akash Pal
 
 Welcome to my GitHub profile! I'm passionate about Developmet like Java developmet, Web development , Front-end, Back-end development , machine learning, and software development. Here you can find my projects, contributions, and learn more about my skills and interests.
 
@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm passionate about Developmet like Java developm
 
 Here are a few of my standout projects:
 
-### [Project 1: Project Name](https://github.com/your_username/project_1)
+### [Project 1: Employee payroll system](https://github.com/akashpal13/Employee_payroll_System)
 **Description**: A brief description of what this project is about and what technologies it uses.
 
 ### [Project 2: Project Name](https://github.com/your_username/project_2)
