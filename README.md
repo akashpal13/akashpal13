@@ -34,10 +34,10 @@ Here are a few of my standout projects:
 
 ## Skills
 
-- **Languages**: Python, JavaScript, R, SQL, etc.
-- **Libraries/Frameworks**: Pandas, NumPy, Scikit-Learn, TensorFlow, PyTorch, React, etc.
-- **Tools**: Git, Docker, Kubernetes, Jupyter Notebook, etc.
-- **Databases**: MySQL, PostgreSQL, MongoDB, etc.
+- **Languages**: Java, JavaScript, SQL, etc.
+- **Libraries/Frameworks**: Spring, Spring boot, JSP, Servlet, Hibernate Pandas, NumPy, Scikit-Learn, TensorFlow, Seaborn etc.
+- **Tools**: Git, Jupyter Notebook, etc.
+- **Databases**: MySQL, Orcle Server etc.
 - **Other**: Data Analysis, Machine Learning, Deep Learning, Data Visualization, Web Development, etc.
 
 ## Connect with Me
