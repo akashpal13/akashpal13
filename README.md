@@ -29,7 +29,7 @@ Here are a few of my standout projects:
 ### [Project 2: Hospital management system](https://github.com/akashpal13/Hospital_management_system)
 **Description**: Build Hospital management system by using "core java concept", "JDBC " and "MySQL" to manage Hospital data like patient data , doctor data , appointment of Doctor for patient. This project is a simple Hospital Management System implemented in Java using JDBC for database connectivity and MySQL as the backend database. The system includes functionalities for managing patient records, viewing doctors, and booking appointments..
 
-### [Project 3: Project Name](https://github.com/your_username/project_3)
+### [Project 3: Digital Clock uisng Swing](https://github.com/akashpal13/DigitalClock-using-Swing)
 **Description**: A brief description of what this project is about and what technologies it uses.
 
 ## Skills
