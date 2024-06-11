@@ -35,7 +35,7 @@ Here are a few of my standout projects:
 ### [Project 4: Submit Form](https://github.com/akashpal13/Submit_form)
 **Description**: This project implements a submit form using HTML, CSS, Servlet, and core Java concepts. It utilizes the Servlet interface and HTTP Servlet interface to handle requests and responses on the server-side, while HTML and CSS are employed to create the front-end portion of the website.
 
-### [Project 3: Digital Clock uisng Swing](https://github.com/akashpal13/DigitalClock-using-Swing)
+### [Project 3: Category Product Mapping](https://github.com/akashpal13/category_product_mapping)
 **Description**: This project implements a digital clock using Java Swing. It explores different ways of updating the clock, including using Timer and a separate Thread. The digital clock continuously displays the current time in the format hh:mm:ss.
 
 
