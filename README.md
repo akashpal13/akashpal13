@@ -32,7 +32,7 @@ Here are a few of my standout projects:
 ### [Project 3: Digital Clock uisng Swing](https://github.com/akashpal13/DigitalClock-using-Swing)
 **Description**: This project implements a digital clock using Java Swing. It explores different ways of updating the clock, including using Timer and a separate Thread. The digital clock continuously displays the current time in the format hh:mm:ss.
 
-### [Project 3: Digital Clock uisng Swing](https://github.com/akashpal13/DigitalClock-using-Swing)
+### [Project 4: Submit Form](https://github.com/akashpal13/Submit_form)
 **Description**: This project implements a digital clock using Java Swing. It explores different ways of updating the clock, including using Timer and a separate Thread. The digital clock continuously displays the current time in the format hh:mm:ss.
 
 ### [Project 3: Digital Clock uisng Swing](https://github.com/akashpal13/DigitalClock-using-Swing)
