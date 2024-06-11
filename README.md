@@ -4,14 +4,12 @@ Welcome to my GitHub profile! I'm passionate about Developmet like Java developm
 
 ## About Me
 
-- 🔭 I’m currently working on **[Food choice dataset , Data cleaning ]**
-- 🌱 I’m currently learning **[Learning Focus, e.g., Deep Learning, React, etc.]**
-- 👯 I’m looking to collaborate on **[Collaboration Interests, e.g., open-source projects, machine learning models, etc.]**
-- 🤔 I’m looking for help with **[Seeking Help With, e.g., improving my data visualization skills]**
-- 💬 Ask me about **[Expertise, e.g., Python, Data Analysis, etc.]**
-- 📫 How to reach me: **[Email or LinkedIn]**
-- 😄 Pronouns: **[Your Pronouns]**
-- ⚡ Fun fact: **[Fun Fact About You]**
+- 🔭 I’m currently working on **Food choice dataset , Data cleaning, Data Manipulation**
+- 🌱 I’m currently learning **Java developer, Data Analysis e.g., Deep Learning, Core Java, etc.**
+- 🤔 I’m looking for help with **Seeking Help to improving my java development skill like Spring, Spring Boot and many more things**
+- 💬 Ask me about **Java Developmet, Web development**
+- 📫 How to reach me: **Email id: akashpal91522@gmail,com**
+- 😄 Pronouns: **Akash**
 
 ## My GitHub Stats
 
@@ -44,9 +42,8 @@ Here are a few of my standout projects:
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/your_username)
-- [Twitter](https://twitter.com/your_username)
-- [Personal Website/Blog](https://yourwebsite.com)
+- [LinkedIn](https://www.linkedin.com/in/akash-pal113/)
+- [Twitter](https://x.com/PalAkash66202)
 
 ## Latest Blog Posts
 
