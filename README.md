@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm passionate about Developmet like Java developm
 Here are a few of my standout projects:
 
 ### [Project 1: Employee payroll system](https://github.com/akashpal13/Employee_payroll_System)
-**Description**: A brief description of what this project is about and what technologies it uses.
+**Description**: A simple Employee Payroll System implemented in Java using Object-Oriented Programming (OOP) concepts. This system allows the addition and removal of employees, along with displaying their details.
 
 ### [Project 2: Project Name](https://github.com/your_username/project_2)
 **Description**: A brief description of what this project is about and what technologies it uses.
