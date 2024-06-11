@@ -26,7 +26,7 @@ Here are a few of my standout projects:
 ### [Project 1: Employee payroll system](https://github.com/akashpal13/Employee_payroll_System)
 **Description**: A simple Employee Payroll System implemented in Java using Object-Oriented Programming (OOP) concepts. This system allows the addition and removal of employees, along with displaying their details.
 
-### [Project 2: Hospital management system](https://github.com/akashpal113/Hospital_management_system)
+### [Project 2: Hospital management system](https://github.com/akashpal13/Hospital_management_system)
 **Description**: Build Hospital management system by using "core java concept", "JDBC " and "MySQL" to manage Hospital data like patient data , doctor data , appointment of Doctor for patient. This project is a simple Hospital Management System implemented in Java using JDBC for database connectivity and MySQL as the backend database. The system includes functionalities for managing patient records, viewing doctors, and booking appointments..
 
 ### [Project 3: Project Name](https://github.com/your_username/project_3)
