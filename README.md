@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Akash Pal
 
-Welcome to my GitHub profile! I'm passionate about Developmet like Java developmet, Web development , Front-end, Back-end development , machine learning, and software development. Here you can find my projects, contributions, and learn more about my skills and interests.
+Welcome to my GitHub profile! I'm passionate about Developmet, like developing product which is use by many people and helping people everyday I am Java developer i have skills like Java developmet, Web development , Front-end, Back-end development , and software development. Here you can find my projects, contributions, and learn more about my skills and interests.
 
 ## About Me
 
@@ -13,11 +13,11 @@ Welcome to my GitHub profile! I'm passionate about Developmet like Java developm
 
 ## My GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=akashpal13&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&layout=compact&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akashpal13&layout=compact&hide_border=true)
 
 ## Projects
 
@@ -60,7 +60,7 @@ Here are a few of my standout projects:
 
 ## Contributions
 
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=your_username&hide_border=true)
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=akashpal13&hide_border=true)
 
 ## Support
 
